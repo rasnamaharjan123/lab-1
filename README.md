@@ -1,1 +1,1 @@
-# rasna's lab-1
+# discrete structure lab-1
